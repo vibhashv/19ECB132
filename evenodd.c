@@ -11,3 +11,8 @@ int main() {
     
     return 0;
 }
+/*
+output:
+Enter an integer: 6
+6 is eve
+*/
