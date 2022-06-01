@@ -1,8 +1,7 @@
 # 19ECB132
-[ADD-DELETE_MODIFY_IN_AN_ARRAY](ADD%20DELETE%20MODIFY%20IN%20AN%20ARRAY)   
+[ADD_DELETE_MODIFY_IN_AN_ARRAY](ADD%20DELETE%20MODIFY%20IN%20AN%20ARRAY)   
 [ADD_DELETE_MODIFY_IN_SINGLE_LINKED_LIST](ADD%20DELETE%20MODIFY%20IN%20SINGLE%20LINKED%20LIST)   
-[AreaofCircle.c](AreaofCircle.c)   
-[AreaofTriangle.c](AreaofTriangle.c)   
+[AreaofCircle.c](AreaofCircle.c)    
 [DOUBLE_LINKED_LIST.c](DOUBLE%20LINKED%20LIST.c)   
 [README.md](README.md)   
 [adddelmodifyelementinarray.c](adddelmodifyelementinarray.c)   
